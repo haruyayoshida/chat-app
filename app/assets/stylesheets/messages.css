@@ -85,16 +85,7 @@
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   overflow: scroll;
-}
-
-.messages-box1{
-  height: 46px;
-  margin: 0 40px;
-}
-
-.messages-box2{
-  height: calc(100vh - 46px);
-  margin: 0 40px;
+  padding: 46px 40px 0;
 }
 
 .message {
